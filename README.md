@@ -15,7 +15,7 @@ brew tap atomsprout/tap
 brew install --cask atomsprout/tap/remoboard
 ```
 
-Or [download the disk image](https://github.com/atomsprout/remoboard-release/releases/latest), open it and drag Remoboard to Applications.
+Or [download the disk image](https://github.com/atomsprout/remoboard-release/releases/tag/v0.1.0), open it and drag Remoboard to Applications.
 
 ## Use
 
@@ -64,7 +64,7 @@ brew tap atomsprout/tap
 brew install --cask atomsprout/tap/remoboard
 ```
 
-也可以[直接下载安装包](https://github.com/atomsprout/remoboard-release/releases/latest)。
+也可以[直接下载安装包](https://github.com/atomsprout/remoboard-release/releases/tag/v0.1.0)。
 
 使用：手机上打开 Remoboard，连接方式选**蓝牙**，切换到 Remoboard 键盘；在 Mac 上打开 Remoboard，第一次会请求蓝牙权限；在列表里选择手机，输入键盘上显示的 PIN，开始打字。
 
