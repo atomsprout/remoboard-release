@@ -1,12 +1,12 @@
-# Remoboard for Mac — Preview
+# Remoboard for Mac
 
 The desktop companion for [Remoboard](https://atomsprout.com/remoboard/), the keyboard app that lets you type on your phone from your computer.
 
 Remoboard normally works in a browser over Wi-Fi. This app adds **Bluetooth**: the computer and the phone no longer need to be on the same network. It can also open the keyboard's Wi-Fi address, so it works as a window for the normal Wi-Fi mode too.
 
-Preview **0.1.0**. Requires **macOS 11 or later**, Intel or Apple silicon. Signed and notarized.
+Version **0.1.0**. Requires **macOS 11 or later**, Intel or Apple silicon. Signed and notarized.
 
-> **Bluetooth needs a phone app that is not in the stores yet.** Bluetooth mode ships in the next Remoboard release for iOS and Android. With the versions in the stores today (iOS 8.2, Android 8.2), this app can only be used over Wi-Fi.
+> **Bluetooth needs Remoboard 8.3 or later on the phone** (iOS and Android), where it is part of Remoboard Pro. With 8.2 this app can only be used over Wi-Fi.
 
 ## Install
 
@@ -53,9 +53,9 @@ Open an issue here, or join [Discord](https://discord.gg/eGzEaP6TzR) or [Telegra
 
 平时它在浏览器里通过 Wi-Fi 使用。这个应用增加了**蓝牙**连接：电脑和手机不需要在同一个网络里。它也可以打开键盘上显示的 Wi-Fi 地址，当作普通 Wi-Fi 模式的窗口来用。
 
-预览版 **0.1.0**。需要 **macOS 11 或更高版本**，Intel 和 Apple 芯片都支持。已签名并通过公证。
+版本 **0.1.0**。需要 **macOS 11 或更高版本**，Intel 和 Apple 芯片都支持。已签名并通过公证。
 
-> **蓝牙模式需要的手机端版本还没有上架。** 蓝牙模式会随 Remoboard iOS 和 Android 的下一个版本发布。用目前商店里的版本（iOS 8.2、Android 8.2），这个应用只能通过 Wi-Fi 使用。
+> **蓝牙模式需要手机上的 Remoboard 8.3 或更高版本**（iOS 和 Android），属于 Remoboard Pro 功能。手机上是 8.2 时，这个应用只能通过 Wi-Fi 使用。
 
 安装：
 
